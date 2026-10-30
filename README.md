@@ -58,6 +58,7 @@ I build practical software that real businesses can use:
 - Flutter  
 - Android  
 - Local JSON Storage  
+- Alarms, Notifications & Camera Integration
 
 ## 🛠️ Tools
 - Git & GitHub  
@@ -79,6 +80,15 @@ I build practical software that real businesses can use:
 - Custom company logo & 3–10 custom rewards  
 - Spin limits & password lock  
 - Local JSON storage, branded splash video  
+
+## 💊 ZJ Medicine Reminder App
+- Flutter/Dart Android app that makes sure you never miss a dose  
+- Add medicines with name, photo, type, frequency, times & dose count  
+- **Easy mode:** alarm shows the medicine photo with Taken / Snooze buttons  
+- **Hard mode:** camera verifies the pill before a dose can be marked as taken  
+- Missed-dose handling with automatic SMS to an emergency contact  
+- Refill alerts, history log, multiple profiles & home screen widget  
+- PDF doctor report, backup with photos, dark/light mode
 
 ---
 
