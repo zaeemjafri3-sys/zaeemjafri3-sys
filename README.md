@@ -1,137 +1,179 @@
 <div align="center">
 
-# 👨‍💻 MUHAMMAD ZAEEM JAFRI (ZJ)
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:1F1147,100:00E5FF&height=240&section=header&text=MUHAMMAD%20ZAEEM%20JAFRI&fontSize=42&fontColor=E6EDF3&animation=fadeIn&fontAlignY=38&desc=ZJ%20%E2%80%A2%20Python%20%26%20Flutter%20Developer&descSize=18&descAlignY=60" width="100%"/>
 
-### Python Developer | Flutter Developer | Desktop & Mobile App Builder
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00E5FF&background=00000000&center=true&vCenter=true&width=650&lines=Python+Developer;Flutter+Developer;Desktop+%26+Mobile+App+Builder;Voice+Assistant+Creator;Problem+Solver" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=56D364&center=true&vCenter=true&width=600&lines=Python+Developer;Flutter+Developer;Desktop+App+Builder;Voice+Assistant+Creator;Problem+Solver" />
+<br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-zaeemjafri3--sys-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zaeemjafri3-sys)
+[![GitHub](https://img.shields.io/badge/GitHub-zaeemjafri3--sys-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF&labelColor=0D1117&color=30363D)](https://github.com/zaeemjafri3-sys)
+[![Gmail](https://img.shields.io/badge/Gmail-zaeem.jafri.3@gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=FF5C5C&labelColor=0D1117&color=30363D)](mailto:zaeem.jafri.3@gmail.com)
 
-[![Gmail](https://img.shields.io/badge/Gmail-zaeem.jafri.3@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zaeem.jafri.3@gmail.com)
-
-<img src="https://komarev.com/ghpvc/?username=zaeemjafri3-sys&color=56D364&style=for-the-badge&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=zaeemjafri3-sys&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0D1117"/>
 
 </div>
 
----
+<br>
 
-# 💫 ABOUT ME
+```text
+╔══════════════════════════════════════════════════════════╗
+║  > whoami                                                ║
+║  Zaeem — Python & Flutter Developer                      ║
+║  > location                                              ║
+║  Karachi, Pakistan                                       ║
+║  > mission                                               ║
+║  Build practical software real businesses can use        ║
+╚══════════════════════════════════════════════════════════╝
+```
 
-Hello! I'm **Zaeem** 👋  
-📍 Karachi, Pakistan  
-💼 Python & Flutter Developer  
+## 🌌 &nbsp;About Me
+
+Hello! I'm **Zaeem** 👋 — a Python & Flutter developer from **📍 Karachi, Pakistan**.
 
 I build practical software that real businesses can use:
 
-- 🖥️ Offline Desktop Apps (POS & business tools)
-- 📱 Android Apps with Flutter
-- 🎙️ Voice Assistants
-- 🧾 PDF Reports & Billing Systems
-- 🎨 Clean, user-friendly interfaces
+| | |
+|---|---|
+| 🖥️ **Offline Desktop Apps** | POS & business tools |
+| 📱 **Android Apps** | Built with Flutter |
+| 🎙️ **Voice Assistants** | Talk to your PC & phone |
+| 🧾 **PDF Reports & Billing** | Invoices, history, doctor reports |
+| 🎨 **Clean Interfaces** | Simple, user-friendly design |
 
----
+<br>
 
-# 🎓 EDUCATION
+## 🎓 &nbsp;Education
 
 | Degree | Institution | Year | Status |
-|--------|------------|------|--------|
-| 🎓 AI Diploma | Aptech | Present | In Progress |
-| 📘 Intermediate (1st Year) | Government City College | Present | In Progress |
-| 📗 Matriculation | Madina-tul-Ilm School | 2025–2026 | Completed |
+|:--|:--|:--:|:--:|
+| 🎓 AI Diploma | Aptech | Present | 🟣 In Progress |
+| 📘 Intermediate (1st Year) | Government City College | Present | 🟣 In Progress |
+| 📗 Matriculation | Madina-tul-Ilm School | 2025–2026 | 🟢 Completed |
 
----
+<br>
 
-# 🚀 SKILLS & TECHNOLOGIES
+## ⚡ &nbsp;Skills & Technologies
 
-## 💻 Programming
-- Python  
-- Dart  
-- SQL  
+**💻 Programming**
 
-## 🖥️ Desktop Development
-- Tkinter  
-- SQLite  
-- ReportLab (PDF generation)  
+![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=00E5FF&color=30363D)
+![Dart](https://img.shields.io/badge/Dart-0D1117?style=flat-square&logo=dart&logoColor=00E5FF&color=30363D)
+![SQL](https://img.shields.io/badge/SQL-0D1117?style=flat-square&logo=postgresql&logoColor=7C3AED&color=30363D)
 
-## 📱 Mobile Development
-- Flutter  
-- Android  
-- Local JSON Storage  
-- Alarms, Notifications & Camera Integration
+**🖥️ Desktop Development**
 
-## 🛠️ Tools
-- Git & GitHub  
-- VS Code  
-- Android Studio  
+![Tkinter](https://img.shields.io/badge/Tkinter-0D1117?style=flat-square&logo=python&logoColor=00E5FF&color=30363D)
+![SQLite](https://img.shields.io/badge/SQLite-0D1117?style=flat-square&logo=sqlite&logoColor=7C3AED&color=30363D)
+![ReportLab](https://img.shields.io/badge/ReportLab_(PDF)-0D1117?style=flat-square&logo=adobeacrobatreader&logoColor=FF5C5C&color=30363D)
 
----
+**📱 Mobile Development**
 
-# 🔥 FEATURED PROJECTS
+![Flutter](https://img.shields.io/badge/Flutter-0D1117?style=flat-square&logo=flutter&logoColor=00E5FF&color=30363D)
+![Android](https://img.shields.io/badge/Android-0D1117?style=flat-square&logo=android&logoColor=3DDC84&color=30363D)
+![Local JSON](https://img.shields.io/badge/Local_JSON_Storage-0D1117?style=flat-square&logo=json&logoColor=white&color=30363D)
+![Alarms](https://img.shields.io/badge/Alarms_%26_Notifications-0D1117?style=flat-square&logoColor=white&color=30363D)
+![Camera](https://img.shields.io/badge/Camera_Integration-0D1117?style=flat-square&logoColor=white&color=30363D)
 
-## 🧾 ZJ POS System
-- Windows offline Point of Sale app  
-- Python + Tkinter + SQLite  
-- Sales history & customer PDF invoices (ReportLab)  
-- No internet required  
+**🛠️ Tools**
 
-## 🎡 ZJ Spin Wheel App
-- Flutter/Dart Android app made for companies  
-- Custom company logo & 3–10 custom rewards  
-- Spin limits & password lock  
-- Local JSON storage, branded splash video  
+![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032&color=30363D)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=white&color=30363D)
+![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=flat-square&logo=visualstudiocode&logoColor=00E5FF&color=30363D)
+![Android Studio](https://img.shields.io/badge/Android_Studio-0D1117?style=flat-square&logo=androidstudio&logoColor=3DDC84&color=30363D)
 
-## 💊 ZJ Medicine Reminder App
-- Flutter/Dart Android app that makes sure you never miss a dose  
-- Add medicines with name, photo, type, frequency, times & dose count  
-- **Easy mode:** alarm shows the medicine photo with Taken / Snooze buttons  
-- **Hard mode:** camera verifies the pill before a dose can be marked as taken  
-- Missed-dose handling with automatic SMS to an emergency contact  
-- Refill alerts, history log, multiple profiles & home screen widget  
-- PDF doctor report, backup with photos, dark/light mode
+<br>
 
----
+## 🔥 &nbsp;Featured Projects
 
-# 🎯 CURRENT FOCUS
+<table>
+<tr>
+<td width="33%" valign="top">
 
-- 🚀 Building and polishing ZJ business apps  
-- 📱 Advanced Flutter development  
-- 🤖 Exploring AI-powered tools  
+### 🧾 ZJ POS System
+Windows offline Point of Sale app
 
----
+- 🐍 Python + Tkinter + SQLite
+- 📜 Sales history
+- 🧾 Customer PDF invoices (ReportLab)
+- 📴 No internet required
 
-# 📊 GITHUB STATS
+</td>
+<td width="33%" valign="top">
+
+### 🎡 ZJ Spin Wheel App
+Flutter/Dart Android app made for companies
+
+- 🏢 Custom company logo
+- 🎁 3–10 custom rewards
+- 🔒 Spin limits & password lock
+- 💾 Local JSON storage
+- 🎬 Branded splash video
+
+</td>
+<td width="33%" valign="top">
+
+### 💊 ZJ Medicine Reminder
+Flutter/Dart Android app that makes sure you never miss a dose
+
+- ➕ Add medicines: name, photo, type, frequency, times & dose count
+- 🟢 **Easy mode:** alarm shows the medicine photo with Taken / Snooze buttons
+- 🔴 **Hard mode:** camera verifies the pill before a dose can be marked as taken
+
+</td>
+</tr>
+</table>
+
+**💊 Medicine Reminder — more features**
+
+- 🚨 Missed-dose handling with automatic SMS to an emergency contact
+- 🔔 Refill alerts, history log, multiple profiles & home screen widget
+- 📄 PDF doctor report, backup with photos, dark/light mode
+
+<br>
+
+## 🎯 &nbsp;Current Focus
+
+```diff
++ 🚀 Building and polishing ZJ business apps
++ 📱 Advanced Flutter development
++ 🤖 Exploring AI-powered tools
+```
+
+<br>
+
+## 📊 &nbsp;GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=zaeemjafri3-sys&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zaeemjafri3-sys&theme=github-dark&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=zaeemjafri3-sys&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=7C3AED" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zaeemjafri3-sys&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=7C3AED&currStreakLabel=00E5FF" width="48%" />
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaeemjafri3-sys&layout=compact&theme=github_dark&hide_border=true" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaeemjafri3-sys&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF" width="40%" />
 
 </div>
 
----
+<br>
 
-# 📫 CONNECT WITH ME
+## 📫 &nbsp;Connect With Me
 
-📧 zaeem.jafri.3@gmail.com  
+📧 [zaeem.jafri.3@gmail.com](mailto:zaeem.jafri.3@gmail.com)  
 📍 Karachi, Pakistan  
+🐙 [github.com/zaeemjafri3-sys](https://github.com/zaeemjafri3-sys)
 
----
+<br>
 
-# 🎮 FUN FACTS
+## 🎮 &nbsp;Fun Facts
 
-- 🎧 Coding with music on  
-- 🛠️ Love turning ideas into working apps  
-- 📚 Always learning something new  
+- 🎧 Coding with music on
+- 🛠️ Love turning ideas into working apps
+- 📚 Always learning something new
 
----
+<br>
 
 <div align="center">
 
-⭐ If you like my work, consider starring my repositories!
+⭐ **If you like my work, consider starring my repositories!**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Let's%20Connect!&fontSize=30&fontColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:1F1147,100:0D1117&height=150&section=footer&text=Let's%20Connect!&fontSize=30&fontColor=E6EDF3&fontAlignY=65" width="100%"/>
 
 </div>
