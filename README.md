@@ -8,6 +8,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-zaeemjafri3--sys-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF&labelColor=0D1117&color=30363D)](https://github.com/zaeemjafri3-sys)
 [![Gmail](https://img.shields.io/badge/Gmail-zaeem.jafri.3@gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=FF5C5C&labelColor=0D1117&color=30363D)](mailto:zaeem.jafri.3@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Zaeem_Jafri-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0D1117&color=30363D)](https://www.linkedin.com/in/zaeem-jafri-52045a434)
 
 <img src="https://komarev.com/ghpvc/?username=zaeemjafri3-sys&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0D1117"/>
 
@@ -158,7 +159,8 @@ Flutter/Dart Android app that makes sure you never miss a dose
 
 📧 [zaeem.jafri.3@gmail.com](mailto:zaeem.jafri.3@gmail.com)  
 📍 Karachi, Pakistan  
-🐙 [github.com/zaeemjafri3-sys](https://github.com/zaeemjafri3-sys)
+🐙 [github.com/zaeemjafri3-sys](https://github.com/zaeemjafri3-sys)  
+💼 [linkedin.com/in/zaeem-jafri-52045a434](https://www.linkedin.com/in/zaeem-jafri-52045a434)
 
 <br>
 
