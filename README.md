@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:1F1147,100:00E5FF&height=240&section=header&text=MUHAMMAD%20ZAEEM%20JAFRI&fontSize=42&fontColor=E6EDF3&animation=fadeIn&fontAlignY=38&desc=ZJ%20%E2%80%A2%20Python%20%26%20Flutter%20Developer&descSize=18&descAlignY=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F1147,100:00E5FF&height=220&section=header&text=MUHAMMAD%20ZAEEM%20JAFRI&fontSize=40&fontColor=E6EDF3&fontAlignY=38&desc=ZJ%20-%20Python%20and%20Flutter%20Developer&descSize=18&descAlignY=58" width="100%"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00E5FF&background=00000000&center=true&vCenter=true&width=650&lines=Python+Developer;Flutter+Developer;Desktop+%26+Mobile+App+Builder;Voice+Assistant+Creator;Problem+Solver" />
 
